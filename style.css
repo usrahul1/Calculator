@@ -7,7 +7,7 @@
 body{
     height: 100%;
     width: 100%;
-    background-color: aqua;
+    background-color: white;
 }
 
 section{
@@ -21,9 +21,10 @@ section{
 .cont{
     width: fit-content;
     height: fit-content;
-    padding: 5rem 2rem;
-    background-color: wheat;
-    border: 5px solid black;
+    padding: 7rem 2rem;
+    background-color: #565656;
+    opacity: 0.9;
+    border: 2px solid black;
     border-radius: 5%;
 }
 
@@ -41,6 +42,7 @@ section{
     height: 3rem;
     border: none;
     outline: none;
+    background-color: white;
 }
 
 .ip{
